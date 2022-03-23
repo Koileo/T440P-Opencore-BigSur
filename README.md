@@ -27,3 +27,5 @@ In Startup menu, set the following options:
 ### Install Your Mac Images
 Cheak you mac Version must be Big Sur 11.0.1!!!!
 
+### Show
+[![result](https://cdn.jsdelivr.net/gh/liewoi/T440P-Opencore-BigSur@master/images.png)]
